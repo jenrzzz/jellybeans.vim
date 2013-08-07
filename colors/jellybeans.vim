@@ -425,6 +425,7 @@ call s:X("rubySymbolKey","BCBBF2","","","Gray","")
 call s:X("rubyQuestion", "CCE6B8","","","Yellow","")
 call s:X("rubyExclamation", "FF8A8A","","","Yellow","")
 call s:X("rubySend", "BCDBE6","","","Yellow","")
+call s:X("rubyCollection", "8FE7FF","","","Yellow","")
 call s:X("rubySubshellString", "DE8E8E","","","Yellow","")
 hi! link rubyGlobalVariable rubyInstanceVariable
 hi! link rubyModule rubyClass
