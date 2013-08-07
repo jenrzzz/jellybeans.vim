@@ -420,6 +420,12 @@ hi! link rubyFunction Function
 
 call s:X("rubyInstanceVariable","c6b6fe","","","Cyan","")
 call s:X("rubySymbol","7697d6","","","Blue","")
+call s:X("rubySymbolKey","BCBBF2","","","Gray","")
+call s:X("rubySymbolKey","BCBBF2","","","Gray","")
+call s:X("rubyQuestion", "CCE6B8","","","Yellow","")
+call s:X("rubyExclamation", "FF8A8A","","","Yellow","")
+call s:X("rubySend", "BCDBE6","","","Yellow","")
+call s:X("rubySubshellString", "DE8E8E","","","Yellow","")
 hi! link rubyGlobalVariable rubyInstanceVariable
 hi! link rubyModule rubyClass
 call s:X("rubyControl","7597c6","","","Blue","")
